@@ -1,4 +1,4 @@
-<a href="../1. Foundamentals">Back to Foundamentals</a>
+<a href="../1. Fundamentals">Back to Fundamentals</a>
 
 # Python
 Basic python data structures

@@ -1,4 +1,4 @@
-# Foundamentals
+# Fundamentals
 Understanding these basic knowledge will allow one to better understand the intricacies of certain processes in data science.
 
 ## <a href="./prob_stat.md">Probability & Statistics</a>

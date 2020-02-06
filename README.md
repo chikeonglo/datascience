@@ -4,7 +4,7 @@ This repository is to keep track of all the things I have learnt in data science
 **Python** will be the language of focus here.
 
 ## Table of Contents
-1. <a href="./1. Foundamentals">Foundamentals</a>
+1. <a href="./1. Fundamentals">Fundamentals</a>
 2. <a href="./2. Data Processing">Data Processing</a>
 3. <a href="./3. Machine Learning (Theory)">Machine Learning Theory</a>
 4. <a href="./4. ML Models">ML Models</a>
