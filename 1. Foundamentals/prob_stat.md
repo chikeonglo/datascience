@@ -1,4 +1,4 @@
-<a href="./README.md">Back to Foundamentals</a>
+<a href="../">Back to Foundamentals</a>
 
 # Probability & Statistics
 * Probability - chance of occuring

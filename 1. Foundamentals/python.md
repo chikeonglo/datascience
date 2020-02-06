@@ -1,4 +1,4 @@
-<a href="./README.md">Back to Foundamentals</a>
+<a href="../">Back to Foundamentals</a>
 
 # Python
 Basic python data structures
