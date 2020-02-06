@@ -1,5 +1,5 @@
 # Lessons from Data Science
-This repository is to keep track of all the things I have learnt in data science and serve as a **guideline** for future references. 
+This repository is to keep track of all the things I have learnt in data science and serve as a **guideline** for future references. This is ***NOT COMPREHENSIVE***, only a brief explanation will be given for each topic/section.
 
 **Python** will be the language of focus here.
 
