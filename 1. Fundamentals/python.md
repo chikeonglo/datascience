@@ -1,6 +1,9 @@
 <a href="../1. Fundamentals">Back to Fundamentals</a>
 
 # Python
+
+***Resources:*** <a href="https://books.goalkicker.com/PythonBook/">Free Python Book</a>
+
 Basic python data structures
 * List (mutable)
 * Tuples (immutable lists)

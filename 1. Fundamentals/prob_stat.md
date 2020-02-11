@@ -1,10 +1,10 @@
 <a href="../1. Fundamentals">Back to Fundamentals</a>
 
 # Probability & Statistics
+***Resources:*** - <a href="https://www.khanacademy.org/math/statistics-probability">Khan Academy - Statistics and Probability</a>
+
 * Probability - chance of occuring
 * Statistics - analysis of dataset
-
-Refresher - <a href="https://www.khanacademy.org/math/statistics-probability">Khan Academy - Statistics and Probability</a>
 
 ## Summary Statistics
 From <a href="https://www.statisticshowto.datasciencecentral.com/summary-statistics/">"Statistics How To"</a>, summary statistics has 3 main categories
