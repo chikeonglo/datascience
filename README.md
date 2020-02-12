@@ -7,7 +7,7 @@ This repository is to keep track of all the things I have learnt in data science
 
 ## Table of Contents
 1. <a href="./1. Fundamentals">Fundamentals</a>
-2. <a href="./2. Data Processing">Data Processing (WIP)</a>
+2. <a href="./2. Data Processing">Data Processing</a>
 3. <a href="./3. Machine Learning (Theory)">Machine Learning Theory (WIP)</a>
 4. <a href="./4. ML Models">ML Models (WIP)</a>
 5. <a href="./5. ML Models - ANN">ML Models - ANN (WIP)</a>
